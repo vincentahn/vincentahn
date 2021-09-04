@@ -1,4 +1,10 @@
-### Hi there 👋
+### Why hello there 👋
+
+My name is Vincent Ahn and I am a software developer with experience building complex web applications using Javascript, Express.js, React, Node.js, Ruby on Rails, PostgreSQL, and MongoDB.
+
+I recently finished the curriculum at App Academy, a highly selective and immersive Software Engineering bootcamp, where I spent 16 weeks refining my skills and exposing myself to many web development technologies in a fast paced environment.
+
+When I'm not coding, I usually spend my time playing FPS/MOBA games, binging some seasonal anime, or getting fascinated by some new Japanese aspect/trivia.
 
 <!--
 **vincentahn/vincentahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
