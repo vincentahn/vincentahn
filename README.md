@@ -2,7 +2,7 @@
 
 My name is Vincent Ahn and I am a software developer with experience in building complex web applications that enjoys improving incrementally day by day.
 
-Currently, I am working at AbleTo's Care Delivery team where we are developing an interactive application to aid therapists and behavioral coaches in helping their patients.
+Currently I am working at AbleTo's Care Delivery team where we are developing an interactive template for therapists and behavioral coaches to use during sessions with their patients.
 
 When I'm not coding, I usually spend my time playing FPS/MOBA games with friends, binging Netflix and anime, or taking walks outside.
 
