@@ -1,6 +1,6 @@
 ### Why hello there 👋
 
-My name is Vincent Ahn and I am a software developer with experience in building complex web applications that enjoys improving incrementally day by day.
+My name is Vincent Ahn and I am a software developer with experience in building complex web applications.
 
 Currently I am working at AbleTo's Care Delivery team where we are developing an interactive template for therapists and behavioral coaches to use during sessions with their patients.
 
