@@ -2,9 +2,9 @@
 
 My name is Vincent Ahn and I am a software developer with experience in building complex web applications.
 
-Currently I am working at AbleTo's Care Delivery team where we are developing an interactive template for therapists and behavioral coaches to use during sessions with their patients.
+Currently I am working at Optum where I am integrating our Revenue Cycle Management system with Athena Health.
 
-When I'm not coding, I usually spend my time playing FPS/MOBA games with friends, binging Netflix and anime, or taking walks outside.
+When I'm not coding, I usually spend my time playing FPS/MOBA games with friends, watching new movies (my favorite is Arrival directed by Denis Villeneuve), or taking walks outside.
 
 <!--
 **vincentahn/vincentahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
